@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: Reece Chen's Tech Blog
+subtitle: 'Simple is not easy, less is more.'
 description: ''
-keywords:
-author: John Doe
-language: en
+keywords: 
+author: Reece Chen
+language: zh-TW
 timezone: ''
 
 # URL
