@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Reece Chen's Tech Blog
+title: Reece Chen
 subtitle: 'Simple is not easy, less is more.'
 description: ''
-keywords: 
+keywords:
 author: Reece Chen
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://blog.reecechen.com
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -39,7 +39,7 @@ external_link:
   field: site # Apply to the whole site
   exclude: ''
 filename_case: 0
-render_drafts: false
+render_drafts: true
 post_asset_folder: false
 relative_link: false
 future: true
