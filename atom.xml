@@ -6,7 +6,7 @@
   <link href="https://blog.reecechen.com/atom.xml" rel="self"/>
   
   <link href="https://blog.reecechen.com/"/>
-  <updated>2022-11-20T18:29:44.171Z</updated>
+  <updated>2022-11-20T16:45:35.159Z</updated>
   <id>https://blog.reecechen.com/</id>
   
   <author>
@@ -15,27 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>test</title>
-    <link href="https://blog.reecechen.com/2022/11/21/test/"/>
-    <id>https://blog.reecechen.com/2022/11/21/test/</id>
-    <published>2022-11-20T17:52:16.000Z</published>
-    <updated>2022-11-20T18:29:44.171Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="/./images/test/image-20221121022919070.png" alt="image-20221121022919070"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/./images/test/image-20221121022919070.png&quot; alt=&quot;image-20221121022919070&quot;&gt;&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
